@@ -1,2 +1,30 @@
-Last updated: 2026-09-17 06:53:38 WIB
-Last updated: 2026-09-17 07:43:19 WIB
+# PHP-eCertificate-Generator
+
+
+
+## 📋 Overview
+
+This repository contains **11 files** and is built with the following technologies:
+
+PHP
+
+## 🚀 Quick Start
+
+```bash
+php -S localhost:8000
+```
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+PHP
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-09-17 07:54:42 WIB*
